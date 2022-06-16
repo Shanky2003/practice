@@ -1,7 +1,8 @@
 #!/usr/bin/bash
 # using While loops print  1 to 100
 
-n=1 
+n=01    
+
 while [ $n -le 100 ]
 do 
  echo "$n"
